@@ -13,7 +13,7 @@ export default function Navbar(props) {
               alt="Flowbite Logo"
             />
             <span className={`self-center text-2xl font-semibold whitespace-nowrap dark:text-${(props.mode=='dark:bg-gray-200')? 'black':'white'}`}>
-              Portfolio
+              TextEditz
             </span>
           </a>
           <div className="flex md:order-2">
